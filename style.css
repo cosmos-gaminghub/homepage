@@ -233,6 +233,12 @@ p {
     outline: 0;
     box-shadow: none;
 }
+
+.explorer-btn {
+	margin-top:20px;
+	margin-left:0px;
+
+}
 section{
 	width:100%;
 	float:left;
