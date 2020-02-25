@@ -237,8 +237,12 @@ p {
 .explorer-btn {
 	margin-top:20px;
 	margin-left:0px;
-
 }
+
+.docs-btn {
+	margin-top:20px;
+}
+
 section{
 	width:100%;
 	float:left;
